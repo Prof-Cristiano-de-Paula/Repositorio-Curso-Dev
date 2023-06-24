@@ -1,1 +1,6 @@
 Roteiro  de Introdução
+
+O que é React?
+Por que usar?
+Ambiente de Instalação
+Primeiro projeto App
