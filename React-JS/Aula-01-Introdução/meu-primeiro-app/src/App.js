@@ -39,6 +39,7 @@ function App() {
       <Pessoa nome="Cristiano" idade="18" profissao="Professor"  foto="https://via.placeholder.com/75" />
       <List />
       <NovaLista itens={ meusItens} />
+      <NovaLista itens={[]} />
       <h1>Reinderização Condicional</h1>
       <Condicional />
 
